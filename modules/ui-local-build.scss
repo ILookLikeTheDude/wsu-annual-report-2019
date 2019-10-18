@@ -1,0 +1,20 @@
+@import '../ui-utilities-master/variables.scss';
+@import '../ui-utilities-master/functions.scss';
+@import '../ui-utilities-master/mixins.scss';
+@import '../ui-utilities-master/placeholders.scss';
+
+//only used for testing local css in dev
+//not included in production
+@import 'modules/banner/scss/banner_local.scss';
+@import 'modules/button/scss/_button_local.scss';
+@import 'modules/card-module/scss/card-module_local';
+@import 'modules/card-overlay/scss/card-overlay_local';
+@import 'modules/card-tile/scss/card-tile_local';
+@import 'modules/featured-content/scss/featured-content_local';
+@import 'modules/color-background-box/scss/color-background-box_local';
+@import 'modules/text-box/scss/text-box_local';
+@import 'modules/page-title-bar/scss/page-title-bar_local';
+@import 'modules/page-title-space/scss/page-title-space_local.scss';
+@import 'modules/feature-box/scss/feature-box_local';
+@import 'modules/responsive-image/scss/responsive-image_local';
+@import 'modules/icon/scss/icon_local';
