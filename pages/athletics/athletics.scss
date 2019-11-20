@@ -1,0 +1,27 @@
+
+ .banner--fame {
+   background-image: url("https://apps.weber.edu/wsuimages/annualreport/2019/images/athletics/withPrideHonorBackground-1x.jpg");
+   min-height: 350px;
+   margin: 30px 0;
+ }
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .banner--mars {
+	background-image: url("https://apps.weber.edu/wsuimages/annualreport/2019/images/athletics/withPrideHonorBackground-2x.jpg");
+  }
+}
+.color-background-box--gray-white-color {
+  background-color: rgba(225,225,225, 0.9);
+}
+
+.text-box h2.text-box__title {
+  font-family: 'tradegothiclt-bold', sans-serif;
+  font-weight: normal !important;
+  margin-bottom: 0 !important;
+  font-size: 1.5rem;
+  color: #575047;
+}
+
+.pullquote--athletics {
+  padding: 2em;
+  background-color: #ECE9EF;
+}

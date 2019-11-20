@@ -1,0 +1,50 @@
+/** banner local build **/
+.banner--under-rep {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2019/images/goddard/economicsbackground-1x.jpg");
+  min-height: 350px;
+  margin: 30px 0;
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .banner--underrep {
+	background-image: url("https://apps.weber.edu/wsuimages/annualreport/2019/images/goddard/economicsbackground-2x.jpg");
+  }
+}
+.color-background-box--gray-white-color {
+  background-color: rgba(225,225,225, 0.9);
+}
+
+.text-box h2.text-box__title {
+  font-family: 'tradegothiclt-bold', sans-serif;
+  font-weight: normal !important;
+  margin-bottom: 0 !important;
+  font-size: 1.5rem;
+  color: #575047;
+}
+
+.banner--under-rep {
+  position: relative;
+}
+
+.ar2019-pullquote {
+  padding: 2em;
+}
+
+.pullquote--information {
+  background-color: #ecebe9;
+}
+
+.ar2019-economicas-pullquote {
+  max-width: 500px;
+  background-color: #ecebe9;
+  border: 20px solid white;
+  position: absolute;
+  right: 30px;
+  bottom: -50px;
+}
+@media only screen and (max-width: 768px) {
+  .ar2019-economicas-pullquote {
+	position: initial;
+	border: none;
+	max-width: none;
+  }
+}

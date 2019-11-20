@@ -1,0 +1,4 @@
+#!/bin/bash
+#script to create new parent directory and populate with arg_name.html and arg_name.scss docs
+
+for i in "${arr[@]}"; do  mkdir -p "${i%/*}" && touch "$i"; done

@@ -1,0 +1,122 @@
+@import "../../ui-utilities-master/variables";
+@import "../../ui-utilities-master/placeholders";
+@import "../../ui-utilities-master/functions";
+@import "../../ui-utilities-master/mixins";
+
+.row.link-strip {
+  background-color: wsu-palette($wcpurp-colors, 1);
+}
+
+.row.link-strip a:hover {
+  color: wsu-palette($hlcolor-colors, 2);
+}
+
+.ar-logo {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  &__wrapper {
+	width: 250px;
+  }
+  &__description {
+	color: wsu-palette($wcpurp-colors, 1);
+	font-family: 'tradegothiclt-condeighteen', sans-serif;
+	font-size: 1.5em;
+	text-align: center;
+	text-transform: uppercase;
+  }
+}
+.feature-tile {
+  display: flex;
+  margin-bottom: 12px;
+  flex-direction: column;
+  &__text {
+	font-family: 'tradegothiclt', sans-serif;
+  }
+  &--left {
+	color: #FFF;
+	align-items: flex-start;
+	@media #{$target-tablet-over} {
+	  margin-right: 5vw;
+
+	}
+	@media #{$target-laptop-over} {
+	  flex-direction: row-reverse;
+	  justify-content: flex-end;
+	  align-items: center;
+	}
+
+	.feature-tile__title, .feature-tile__title a, .feature-tile__title a:visited {
+	  color: #FFF;
+	}
+
+	.feature-tile__title a:hover {
+	  color: #A391B1;
+	}
+
+	.feature-tile__img {
+	  clip-path: polygon(0 0, 70% 0, 100% 100%, 0 100%);
+	  @media #{$target-laptop-over} {
+		clip-path: polygon(0 0, 70% 0, 87% 100%, 0 100%);
+	  }
+	}
+  }
+
+  &--right {
+	color: inherit;
+	align-items: flex-end;
+	@media #{$target-tablet-over} {
+	  margin-left: 5vw;
+	}
+	@media #{$target-laptop-over} {
+	  flex-direction: row;
+	  justify-content: flex-end;
+	  align-items: center;
+	}
+
+	.feature-tile__title, .feature-tile__title a, .feature-tile__title a:visited {
+	  color: $gray-text;
+	}
+
+	.feature-tile__title a:hover {
+	  color: wsu-palette($wcpurp-colors, 1);
+	}
+
+	.feature-tile__img {
+	  clip-path: polygon(30% 0, 100% 0, 100% 100%, 0% 100%);
+	  @media #{$target-laptop-over} {
+		clip-path: polygon(30% 0, 100% 0, 100% 100%, 13% 100%);
+	  }
+	}
+  }
+
+  &__content, &__img {
+	display: flex;
+  }
+
+  &__content {
+	flex-direction: column;
+	justify-content: center;
+	padding: 3em;
+	@media #{$target-tablet-over} {
+	  max-width: 575px;
+	}
+  }
+  &__img {
+	//max-width: 332px;
+	@media #{$target-tablet-over} {
+	  min-width: 350px;
+	  max-width: 500px;
+	  position: relative;
+	  top: -47px;
+	  margin-bottom: -47px;
+	}
+
+	&::after {
+	  content: " ";
+	  background-color: #fff;
+	  position: absolute;
+	  width: 100%;
+	}
+  }
+}

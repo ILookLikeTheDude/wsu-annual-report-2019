@@ -1,0 +1,136 @@
+@import "../../../ui-utilities-master/variables";
+@import "../../../ui-utilities-master/placeholders";
+@import "../../../ui-utilities-master/functions";
+@import "../../../ui-utilities-master/mixins";
+
+@font-face {
+  font-family: "Clarbold";
+  src: url(https://www.weber.edu/wsuimages/annualreport/fonts/Clarendon-ExtraBold.woff), url(https://www.weber.edu/wsuimages/annualreport/fonts/Clarendon-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: "Praktika";
+  src: url(https://www.weber.edu/wsuimages/annualreport/fonts/Praktika-ExtraBold.woff), url(https://www.weber.edu/wsuimages/annualreport/fonts/Praktika-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: "Thirsty";
+  src: url(https://www.weber.edu/wsuimages/annualreport/fonts/thirsty-rough-light.woff), url(https://www.weber.edu/wsuimages/annualreport/fonts/thirsty-rough-light.ttf);
+}
+
+#hide-clar-load, #hide-title-load {
+  visibility: hidden;
+}
+
+.page-title-space {
+  padding: 0;
+}
+
+h2.lead-article__title {
+  margin-bottom: 20px !important;
+  line-height: 1;
+  .ar-block-text {
+    font-family: "Praktika", sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+  }
+  .ar-script-text {
+    font-family: "Thirsty", cursive;
+    font-size: 1.5em;
+  }
+}
+
+
+strong, b {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: bold;
+}
+
+.sr-only {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  top: auto;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.banner-image, .banner-image img {
+  width: 100%;
+}
+
+.lead-article-section, .main-article-section{
+  padding: 1em 0;
+}
+
+.lead-article {
+  &__image {
+    max-width: 600px;
+  }
+}
+
+.ar2019-pullquote {
+  &__title {
+    //margin-bottom: 20px;
+  }
+  &__body--med {
+    font-family: "tradegothiclt-condeighteen", sans-serif !important;
+    font-size: 1.5em;
+  }
+  &__body--large {
+    font-family: "tradegothiclt-condeighteen", sans-serif !important;
+    font-size: 2em;
+  }
+}
+
+
+.float-left {
+  float: left;
+  margin-right: 20px;
+}
+
+.float-right {
+  float: right;
+  margin-left: 20px;
+}
+
+
+.ar2019-stat {
+  padding: 1em;
+  text-align: center;
+  &__title {
+    //font-family: "tradegothicltcom-bdcn20", sans-serif;
+    font-size: 1.4em !important;
+  }
+  &__number {
+    font-size: 3.7em;
+    font-family: 'Clarbold', serif;
+    line-height: 1;
+    margin-bottom: 10px;
+  }
+  &__description {
+    font-size: 1.3em;
+    font-family: "tradegothicltcom-bdcn20", sans-serif;
+    line-height: 1.2;
+    margin-bottom: 40px;
+  }
+}
+
+//overwrite text-box padding in main
+.text-box {
+  padding: 0;
+}
+
+/********Arts and Humanities Contact Footer**************/
+
+.custom-hr {
+  text-align: center;
+  img {
+    width: 30px;
+    position: relative;
+    top: -35px;
+  }
+}

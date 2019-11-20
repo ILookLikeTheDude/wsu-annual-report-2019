@@ -1,0 +1,44 @@
+/** banner local build **/
+.banner {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2019/images/cos/NUgeobackground-1x.jpg");
+  min-height: 350px;
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .banner {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2019/images/cos/NUgeobackground-2x.jpg");
+  }
+}
+.banner--aspect-16-9 {
+  height: calc(100vw * (9 / 16));
+}
+
+.banner--cos-nugeotec {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2019/images/cos/NUgeobackground-1x.jpg");
+  min-height: 350px;
+  margin: 30px 0;
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .banner--cos-nugeotec {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2019/images/cos/NUgeobackground-2x.jpg");
+  }
+}
+.color-background-box--gray-white-color {
+  background-color: rgba(225,225,225, 0.9);
+}
+
+.text-box h2.text-box__title {
+  font-family: 'tradegothiclt-bold', sans-serif;
+  font-weight: normal !important;
+  margin-bottom: 0 !important;
+  font-size: 1.5rem;
+  color: #575047;
+}
+
+.ar2019-community-pullquote {
+  padding: 2em;
+  background-color: #fef7e8;
+}
+
+.pullquote-medical-school {
+  text-align: center;
+}

@@ -1,0 +1,2688 @@
+section.goddard section.article.article-shape.charity, section.article.article-shape.building-community, section.dumke.content section.article.article-shape.collaboration, .article-img-bg-shape, section.article.article-shape .article-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section.ccel-facts, section.online-facts .online-courses-offered, section.online-facts .online-fact-total, section.article.article-shape.storytelling .article-wrapper .text-box-color, section.lind.content section.article.article-shape.leaders, section.article.article-shape.building-community, section.east.content section.article.article-img-bg.engineered-future, .dumke-facts .fact-box-circle, .text-box-white, .text-box-highlight, .text-box, .text-box-wsu, .text-box-moyes, .text-box-lind, .text-box-goddard, .text-box-east, .text-box-dumke, .text-box-csbs, .text-box-cos, .text-box-gray, .article-img-bg-shape, section.article.article-shape .article-wrapper, .fact-box-circle {
+  padding: 30px 0.625rem;
+}
+@media only screen and (min-width: 768px) {
+  section.ccel-facts, section.online-facts .online-courses-offered, section.online-facts .online-fact-total, section.article.article-shape.storytelling .article-wrapper .text-box-color, section.lind.content section.article.article-shape.leaders, section.article.article-shape.building-community, section.east.content section.article.article-img-bg.engineered-future, .dumke-facts .fact-box-circle, .text-box-white, .text-box-highlight, .text-box, .text-box-wsu, .text-box-moyes, .text-box-lind, .text-box-goddard, .text-box-east, .text-box-dumke, .text-box-csbs, .text-box-cos, .text-box-gray, .article-img-bg-shape, section.article.article-shape .article-wrapper, .fact-box-circle {
+    padding: 4em;
+  }
+}
+
+.secondary-logo {
+  height: 55px !important;
+  margin-top: 14px;
+}
+
+.row.expanded {
+  max-width: none !important;
+}
+
+@media only screen and (max-width: 740px) {
+  .secondary-logo {
+    margin-top: 0;
+  }
+}
+.showcase-html-section {
+  padding-top: 0;
+}
+
+section.padded-extreme {
+  padding: 6em 0;
+}
+
+section.padded-extreme-even {
+  padding: 6em 0;
+}
+
+section.padded-full {
+  padding: 4em 0 2em;
+}
+
+section.padded-full-even {
+  padding: 4em 0;
+}
+
+section.padded-half {
+  padding: 2em 0 1em;
+}
+
+section.padded-half-even {
+  padding: 2em 0;
+}
+
+section.padded-none {
+  padding: 0;
+}
+
+@font-face {
+  font-family: "just-lovely";
+  src: url("https://www.weber.edu/wsuimages/annualreport/fonts/just-lovely.ttf");
+}
+.reg-tg-extended-h2, section.article.good-neighbors .text-box-color h2, section.article.online-learning .text-box-color h2, section.out-to-play .text-box h2, section.out-to-play .text-box-gray h2, section.out-to-play .text-box-cos h2, section.out-to-play .text-box-csbs h2, section.out-to-play .text-box-dumke h2, section.out-to-play .text-box-east h2, section.out-to-play .text-box-goddard h2, section.out-to-play .text-box-lind h2, section.out-to-play .text-box-moyes h2, section.out-to-play .text-box-wsu h2, section.article.article-shape.storytelling .article-wrapper .text-box-color h2, section.lind.content .article-img-bg.oxford .text-box-color h2, section.goddard section.article.article-img-bg.global-player .text-box-color h2, section.dumke.content section.article.article-img-bg.new-addition .text-box-color h2, section.article.article-img-bg.kuwait .text-box-color h2, .article-img-bg-shape.knowledge .article-wrapper .text-box-color h2, .athletics.article.marathon .text-box-color h2, section.article-img-bg.freedom .text-box-color h2, .text-box-white h2, .text-box h2, .text-box-wsu h2, .text-box-moyes h2, .text-box-lind h2, .text-box-goddard h2, .text-box-east h2, .text-box-dumke h2, .text-box-csbs h2, .text-box-cos h2, .text-box-gray h2, .home-tile-content h2, .lead-article-content h2 {
+  font-family: "tradegothicltstd-extended", sans-serif;
+  font-size: 1.3em;
+  line-height: 2em;
+}
+
+.reg-tg-cond18-h3, .home-tile-content h3 {
+  font-family: "tradegothiclt-condeighteen", sans-serif;
+  font-size: 1.3em;
+}
+
+.cursive-span-2em, section.article.good-neighbors .text-box-color h2 span, section.article.online-learning .text-box-color h2 span, section.out-to-play .text-box h2 span, section.out-to-play .text-box-gray h2 span, section.out-to-play .text-box-cos h2 span, section.out-to-play .text-box-csbs h2 span, section.out-to-play .text-box-dumke h2 span, section.out-to-play .text-box-east h2 span, section.out-to-play .text-box-goddard h2 span, section.out-to-play .text-box-lind h2 span, section.out-to-play .text-box-moyes h2 span, section.out-to-play .text-box-wsu h2 span, section.article.article-shape.storytelling .article-wrapper .text-box-color h2 span, section.lind.content .article-img-bg.oxford .text-box-color h2 span, section.goddard section.article.article-img-bg.global-player .text-box-color h2 span, section.dumke.content section.article.article-img-bg.new-addition .text-box-color h2 span, section.article.article-img-bg.kuwait .text-box-color h2 span, .article-img-bg-shape.knowledge .article-wrapper .text-box-color h2 span, .athletics.article.marathon .text-box-color h2 span, section.article-img-bg.freedom .text-box-color h2 span, .text-box-white h2 span, .text-box h2 span, .text-box-wsu h2 span, .text-box-moyes h2 span, .text-box-lind h2 span, .text-box-goddard h2 span, .text-box-east h2 span, .text-box-dumke h2 span, .text-box-csbs h2 span, .text-box-cos h2 span, .text-box-gray h2 span, .home-tile-content h2 span, .lead-article-content h2 span {
+  font-family: "just-lovely", cursive;
+  font-size: 2em;
+}
+
+/*******BANNERS*********/
+.showcase-html-section h1 {
+  color: #492365;
+  font-family: "tradegothicltstd-boldext", sans-serif;
+  margin: 1em;
+  text-align: center;
+  font-size: 2rem;
+}
+.showcase-html-section .ar-sub-banner h1 {
+  font-family: "just-lovely", cursive;
+  text-transform: capitalize !important;
+  color: #FFF;
+  font-size: calc(2.5rem + 6vw);
+  line-height: 1em;
+  margin: 0;
+}
+.showcase-html-section .ar-banner h1, .showcase-html-section .ar-pres-banner h1, .showcase-html-section .ar-home-banner h1 {
+  display: inline;
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  text-transform: uppercase !important;
+  color: #FFF;
+  font-size: calc(20px + 2vw);
+  line-height: 1em;
+  margin: 0;
+}
+.showcase-html-section .ar-banner h1 span.to, .showcase-html-section .ar-pres-banner h1 span.to, .showcase-html-section .ar-home-banner h1 span.to, .showcase-html-section .ar-banner h1 span.to-regular, .showcase-html-section .ar-pres-banner h1 span.to-regular, .showcase-html-section .ar-home-banner h1 span.to-regular {
+  font-family: "just-lovely", cursive;
+  text-transform: lowercase;
+  font-size: 1.5em;
+  font-style: italic;
+}
+.showcase-html-section .ar-banner h1 span.to-regular, .showcase-html-section .ar-pres-banner h1 span.to-regular, .showcase-html-section .ar-home-banner h1 span.to-regular {
+  text-transform: capitalize !important;
+  color: #FFF;
+}
+
+.ar-pres-banner h2 {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  text-transform: uppercase !important;
+  color: #FFF;
+  font-size: calc(12px + 3vw);
+  line-height: 1em;
+  margin-bottom: 0;
+}
+@media only screen and (max-width: 640px) {
+  .ar-pres-banner h2 {
+    font-size: calc(12px + 6vw);
+  }
+}
+.ar-pres-banner h2 span.to, .ar-pres-banner h2 span.to-regular, .ar-pres-banner h2 .showcase-html-section .ar-banner h1 span.to-regular, .ar-pres-banner h2 .showcase-html-section .ar-pres-banner h1 span.to-regular, .ar-pres-banner h2 .showcase-html-section .ar-home-banner h1 span.to-regular, .showcase-html-section .ar-banner h1 .ar-pres-banner h2 span.to-regular, .showcase-html-section .ar-pres-banner h1 .ar-pres-banner h2 span.to-regular, .showcase-html-section .ar-home-banner h1 .ar-pres-banner h2 span.to-regular {
+  font-family: "just-lovely", cursive;
+  text-transform: lowercase;
+  font-size: 1.5em;
+  font-style: italic;
+}
+.ar-pres-banner h2 span.to-regular {
+  text-transform: capitalize !important;
+  color: #FFF;
+}
+
+/*********TITLES***********/
+h2.punchline {
+  font-family: "just-lovely", cursive;
+  text-transform: capitalize !important;
+  font-size: calc(20px + 5vw);
+  line-height: 0.7em;
+  color: #FFF;
+}
+@media only screen and (max-width: 1400px) {
+  h2.punchline {
+    line-height: 1em;
+  }
+}
+
+.ar-article h2 {
+  font-family: "tradegothicltstd-extended", sans-serif;
+  font-size: 2em;
+  color: #FFF;
+  line-height: inherit;
+}
+.ar-article h2 span.punchline {
+  font-family: "just-lovely", cursive;
+  color: #FFF;
+  font-size: 1em;
+}
+
+.lead-article-content h2 {
+  color: #492365;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+@media only screen and (max-width: 640px) {
+  .lead-article-content h2 {
+    line-height: 1.6em;
+  }
+}
+.lead-article-content h2 span {
+  color: #492365;
+  font-weight: bold;
+}
+
+/**********HOME PAGE TYPEOGRAPHY***********/
+.home-tile-content h2 {
+  color: #FFF;
+}
+.home-tile-content h2 span {
+  color: #FFF;
+}
+.home-tile-content h3 {
+  color: #FFF;
+  line-height: 1.2em;
+}
+
+h2.home-title {
+  text-transform: uppercase !important;
+  font-family: "tradegothiclt-condeighteen", sans-serif;
+  font-size: 1.5em;
+  color: #fff;
+}
+
+/**************FACTS AND FIGURES************/
+.ar-fact h2 {
+  font-family: "tradegothiclt-condeighteen", sans-serif;
+  letter-spacing: 2px;
+  font-size: 3em;
+}
+
+.ar-fact h3 {
+  font-family: "tradegothiclt-condeighteen", sans-serif;
+  font-size: 1.3em;
+}
+
+/***********CIRCLE FACTS***********/
+.tall-number {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  font-size: 6em;
+  line-height: 75px;
+  letter-spacing: -5px;
+}
+
+.medium-tall-number, .fact-over-under .over-under-wrapper p.over-under-number, .fact-single .over-under-wrapper p.over-under-number {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  font-size: 3.2em;
+  line-height: 1em;
+}
+
+.regular-number, section.online-facts .online-courses-offered .big-w-circle, .circle-fact-wrapper p:first-child {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  font-size: 2.7em;
+  line-height: 1em;
+}
+
+.bold-condensed-text {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  font-size: 1.3em;
+  line-height: 1em;
+}
+
+.regular-condensed-text.large {
+  font-family: "tradegothiclt-condeighteen", sans-serif;
+  font-size: 2em;
+  letter-spacing: -1px;
+  line-height: 1em;
+}
+
+.regular-condensed-text.small {
+  font-family: "tradegothiclt-condeighteen", sans-serif;
+  font-size: 1.5em;
+  letter-spacing: -1px;
+  line-height: 1em;
+}
+
+.fine-print {
+  font-family: "tradegothiclt-condeighteen", sans-serif;
+  font-size: 0.7em;
+  line-height: 1em;
+}
+
+.super-fine-print, section.online-facts .online-courses-offered .big-w-circle span {
+  font-family: "tradegothiclt-condeighteen", sans-serif;
+  font-size: 10px;
+  line-height: 1em;
+}
+
+.large-expanded {
+  font-family: "tradegothicltstd-boldext", sans-serif;
+  font-size: 1.5em;
+  line-height: 1em;
+}
+
+.small-expanded {
+  font-family: "tradegothicltstd-boldext", sans-serif;
+  font-size: 1em;
+  line-height: 1em;
+}
+
+/**********TEXT-BOXES*************/
+.text-box-highlight-typography, .text-box-highlight {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  font-size: 2em;
+}
+
+/*****.text-box h2, .text-box.span and .text-box-color in @mixins******/
+/*****.text-box, .text-box-white typography in .text.boxes.scss*****/
+/***********COLORED H2************/
+h2.punchline-cos {
+  color: #84471e;
+}
+
+h2.punchline-dumke {
+  color: #099844;
+}
+
+h2.punchline-csbs, h2.punchline-lind {
+  color: #005f71;
+}
+
+h2.punchline-godd, h2.punchline-moyes {
+  color: #483627;
+}
+
+h2.punchline-east {
+  color: #492365;
+}
+
+.standard-tagline {
+  font-family: "just-lovely", cursive;
+  color: #492365;
+  font-size: 3.5em;
+}
+
+/************TYPOGRAPHY MEDIA QUERIES**********/
+@media only screen and (min-width: 1400px) {
+  .showcase-html-section .ar-banner h1, .showcase-html-section .ar-pres-banner h1, .showcase-html-section .ar-home-banner h1 {
+    font-size: 3.5rem;
+    line-height: 1.1em;
+  }
+
+  h2.home-title {
+    display: inline;
+  }
+
+  h2.punchline {
+    display: inline;
+    font-size: 5em;
+    padding-left: 0 !important;
+  }
+
+  h2.punchline-home {
+    font-size: 5em;
+  }
+}
+/*text-box typography lives in mixins and text-boxes.scss*/
+.ar-banner, .ar-pres-banner, .ar-home-banner {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: calc( 100vw / 2 );
+  max-height: 650px;
+  min-height: 250px;
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: center;
+  padding-top: 70px;
+}
+@media only screen and (max-width: 767px) {
+  .ar-banner, .ar-pres-banner, .ar-home-banner {
+    padding-top: 25px;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .ar-banner, .ar-pres-banner, .ar-home-banner {
+    display: block;
+    position: relative;
+  }
+}
+.ar-banner .banner-headline, .ar-pres-banner .banner-headline, .ar-home-banner .banner-headline {
+  text-align: center;
+  max-width: 750px;
+}
+.ar-banner .banner-headline h2.punchline, .ar-pres-banner .banner-headline h2.punchline, .ar-home-banner .banner-headline h2.punchline {
+  display: block;
+}
+@media only screen and (min-width: 1024px) {
+  .ar-banner .banner-headline, .ar-pres-banner .banner-headline, .ar-home-banner .banner-headline {
+    max-width: none;
+    position: absolute;
+    top: 10%;
+    left: 6%;
+    padding-top: 0;
+    text-align: left;
+  }
+  .ar-banner .banner-headline .punchline, .ar-pres-banner .banner-headline .punchline, .ar-home-banner .banner-headline .punchline {
+    padding-left: 43px !important;
+  }
+}
+.ar-banner .ar-banner-figure, .ar-pres-banner .ar-banner-figure, .ar-home-banner .ar-banner-figure {
+  position: absolute;
+  bottom: 0;
+  right: 10%;
+  width: 25%;
+  max-width: 450px;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom center;
+}
+@media only screen and (max-width: 1024px) {
+  .ar-banner .ar-banner-figure, .ar-pres-banner .ar-banner-figure, .ar-home-banner .ar-banner-figure {
+    display: none;
+  }
+}
+
+.ar-home-banner {
+  position: static;
+  background-position: center bottom;
+  padding: 6% 3% 3%;
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/home-header-bg-dark-mask-circles-1x.jpg");
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .ar-home-banner {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/home-header-bg-dark-mask-circles-2x.jpg");
+  }
+}
+.ar-home-banner .banner-headline {
+  position: static;
+  top: 90px;
+  left: 0;
+  text-align: center;
+  max-width: 1100px;
+}
+.ar-home-banner h2.punchline {
+  text-align: center;
+}
+.ar-home-banner .ar-banner-title {
+  position: static;
+  width: auto;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 300px;
+}
+@media screen and (max-width: 480px) {
+  .ar-home-banner .ar-banner-title {
+    max-width: 223px;
+  }
+}
+
+.ar-pres-banner {
+  background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/background/pres-letter-banner-1x.jpg");
+  position: static;
+  background-position: center bottom;
+  padding: 6% 3% 3%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .ar-pres-banner {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/background/pres-letter-banner-2x.jpg");
+  }
+}
+@media only screen and (max-width: 640px) {
+  .ar-pres-banner {
+    padding: 12% 3% 3%;
+  }
+}
+.ar-pres-banner .banner-headline {
+  position: static;
+  top: 90px;
+  left: 0;
+  text-align: center;
+}
+
+.ar-sub-banner {
+  background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/background/facts-figures-header-1x.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: calc( 100vw / 2 );
+  max-height: 400px;
+  min-height: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.athletics-page-banner {
+  background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/background/athletics-header-bg-1x.jpg");
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .athletics-page-banner {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/background/athletics-header-bg-2x.jpg");
+  }
+}
+.athletics-page-banner .ar-banner-figure {
+  max-width: 500px;
+}
+@media only screen and (min-width: 1024px) {
+  .athletics-page-banner .ar-banner-figure {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/figures/coach-cropped-1x.png");
+  }
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .athletics-page-banner .ar-banner-figure {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/figures/coach-cropped-2x.png");
+  }
+}
+
+.big-w-page-banner {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/big-w-header-bg-circles-1x.jpg");
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .big-w-page-banner {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/big-w-header-bg-circles-2x.jpg");
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .big-w-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/Natalie%20Struhs3-0455-1x.png");
+  }
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .big-w-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/Natalie%20Struhs3-0455-2x.png");
+  }
+}
+
+/*annual report department pages banners*/
+.cos-page-banner {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/cos-header-bg-circles-1x.jpg");
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .cos-page-banner {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/cos-header-bg-circles-2x.jpg");
+  }
+}
+.cos-page-banner .ar-banner-figure {
+  width: 45%;
+  right: 0;
+  max-width: 800px;
+}
+@media only screen and (min-width: 1024px) {
+  .cos-page-banner .ar-banner-figure {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/figures/Rhinostasis5-topcomp-1x.png");
+  }
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .cos-page-banner .ar-banner-figure {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/figures/Rhinostasis5-topcomp-2x.png");
+  }
+}
+
+.csbs-page-banner {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/csbs-header-bg-circles-1x.jpg");
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .csbs-page-banner {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/csbs-header-bg-circles-2x.jpg");
+  }
+}
+.csbs-page-banner .ar-banner-figure {
+  max-width: 456px;
+}
+@media only screen and (min-width: 1024px) {
+  .csbs-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/csbs-figure-1x.png");
+  }
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .csbs-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/csbs-figure-2x.png");
+  }
+}
+
+.dumke-page-banner {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/dumke-header-bg-circles-1x.jpg");
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .dumke-page-banner {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/dumke-header-bg-circles-2x.jpg");
+  }
+}
+.dumke-page-banner .ar-banner-figure {
+  max-width: 418px;
+}
+@media only screen and (min-width: 1024px) {
+  .dumke-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/cut-ShelbyPitts-9216-1x.png");
+  }
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .dumke-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/cut-ShelbyPitts-9216-2x.png");
+  }
+}
+
+.east-page-banner {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/east-header-bg-circles-1x.jpg");
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .east-page-banner {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/east-header-bg-circles-2x.jpg");
+  }
+}
+.east-page-banner .ar-banner-figure {
+  width: 30%;
+  max-width: 600px;
+}
+@media only screen and (min-width: 1024px) {
+  .east-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/cut2-TammyPlatero-0575-1x.png");
+  }
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .east-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/cut2-TammyPlatero-0575-2x.png");
+  }
+}
+
+.lind-page-banner {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/lind-header-bg-circles-1x.jpg");
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .lind-page-banner {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/lind-header-bg-circles-2x.jpg");
+  }
+}
+.lind-page-banner .ar-banner-figure {
+  max-width: 500px;
+}
+@media only screen and (min-width: 1024px) {
+  .lind-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/KalynF-1x.png");
+  }
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .lind-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/KalynF-2x.png");
+  }
+}
+
+.godd-page-banner {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/goddard-header-bg-circles-1x.jpg");
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .godd-page-banner {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/goddard-header-bg-circles-2x.jpg");
+  }
+}
+.godd-page-banner .ar-banner-figure {
+  width: 28%;
+  max-width: 600px;
+}
+@media only screen and (min-width: 1024px) {
+  .godd-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/outdoor-mask-winner-IMG_1272-1x.png");
+  }
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .godd-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/outdoor-mask-winner-IMG_1272-2x.png");
+  }
+}
+
+.moyes-page-banner {
+  background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/moyes-header-bg-circles-1x.jpg");
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .moyes-page-banner {
+    background-image: url("https://apps.weber.edu/wsuimages/annualreport/2018/images/banners/background-circles/moyes-header-bg-circles-2x.jpg");
+  }
+}
+.moyes-page-banner .ar-banner-figure {
+  width: 29%;
+  max-width: 600px;
+}
+@media only screen and (min-width: 1024px) {
+  .moyes-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/cut4-Education_annual_report-9874-1x.png");
+  }
+}
+@media only screen and (min-width: 1024px) and (min-resolution: 192dpi) {
+  .moyes-page-banner .ar-banner-figure {
+    background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/banners/figures/cut4-Education_annual_report-9874-2x.png");
+  }
+}
+
+.circle-fact, .circle-fact.float-circle-right, .circle-fact.float-circle-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 50%;
+  width: 225px;
+  height: 225px;
+  padding: 2.5em;
+  margin: 22px;
+  shape-outside: circle();
+}
+@media only screen and (max-width: 768px) {
+  .circle-fact, .circle-fact.float-circle-right, .circle-fact.float-circle-left {
+    margin: 0 auto 30px;
+    float: none;
+  }
+}
+.circle-fact span, .circle-fact.float-circle-right span, .circle-fact.float-circle-left span {
+  display: block;
+}
+
+.circle-fact.float-circle-left {
+  float: left;
+  border-radius: 100%;
+  margin: 0 22px 0 -90px;
+  shape-outside: margin-box;
+}
+@media only screen and (max-width: 768px) {
+  .circle-fact.float-circle-left {
+    margin: 0 auto 30px;
+    float: none;
+  }
+}
+
+.circle-fact.float-circle-right {
+  float: right;
+  border-radius: 100%;
+  margin: 0 -90px 0 22px;
+  shape-outside: margin-box;
+}
+@media only screen and (max-width: 768px) {
+  .circle-fact.float-circle-right {
+    margin: 0 auto 30px;
+    float: none;
+  }
+}
+
+.circle-fact-wrapper {
+  display: flex;
+  margin-bottom: 30px;
+}
+.circle-fact-wrapper p:first-child {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #FFF;
+  text-align: center;
+  border-radius: 50%;
+  min-width: 75px;
+  min-height: 75px;
+  margin: 10px 30px 0 0;
+  shape-outside: circle();
+}
+.circle-fact-wrapper p:last-child {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  width: 60%;
+}
+
+.fact-over-under .over-under-wrapper, .fact-single .over-under-wrapper {
+  padding: 2em;
+  display: flex;
+  align-items: center;
+}
+@media only screen and (max-width: 640px) {
+  .fact-over-under .over-under-wrapper, .fact-single .over-under-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1em 0 0 0;
+  }
+}
+.fact-over-under .over-under-wrapper p.over-under-number, .fact-single .over-under-wrapper p.over-under-number {
+  flex: 1;
+  text-align: right;
+  color: #492365;
+}
+.fact-over-under .over-under-wrapper:first-child, .fact-single .over-under-wrapper:first-child {
+  border-bottom: 2px solid #575047;
+}
+.fact-over-under .over-under-number, .fact-single .over-under-number {
+  padding-right: 30px;
+}
+.fact-over-under .over-under-text, .fact-single .over-under-text {
+  flex: 1;
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  font-size: 1em;
+}
+
+.fact-single .over-under-wrapper:first-child {
+  border-bottom: none;
+}
+
+.no-padding-top {
+  padding-top: 0 !important;
+}
+
+.no-padding-bottom {
+  padding-bottom: 0 !important;
+}
+
+/* CIRCLE FACT SPAN CLASSES:
+.tall-number
+.regular-number
+.bold-condensed-text
+.regular-condensed-text.large
+.regular-condensed-text.small
+.fine-print
+.large-expanded
+.small-expanded
+LIVING IN TYPOGRAPHY.SCSS */
+/*this is where the articles live*/
+.lead-article-content {
+  padding: 30px 0.625rem;
+}
+@media only screen and (min-width: 480px) {
+  .lead-article-content {
+    padding: 4em;
+  }
+}
+
+section.article.article-img-bg {
+  display: flex;
+}
+
+.article-shape-centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 0.625rem;
+}
+@media only screen and (min-width: 1024px) {
+  .article-shape-centered {
+    padding: 4em;
+    flex-direction: row;
+  }
+}
+.article-shape-centered img {
+  width: 400px;
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  shape-outside: margin-box;
+  border: 1px solid #FFF;
+  margin-bottom: 40px;
+}
+
+section.article.article-shape {
+  display: flex;
+}
+section.article.article-shape .article-wrapper img {
+  border: 2px solid #FFF;
+}
+@media only screen and (min-width: 1024px) {
+  section.article.article-shape .article-wrapper {
+    width: 69vw;
+  }
+}
+
+.article-img-bg-shape {
+  position: relative;
+  min-height: 80vh;
+}
+@media only screen and (min-width: 1024px) {
+  .article-img-bg-shape .article-wrapper {
+    width: 69vw;
+  }
+}
+
+.float-circle-left {
+  position: static;
+  float: left;
+  border-radius: 100%;
+  margin: 0 22px 0 -90px;
+  shape-outside: margin-box;
+}
+@media only screen and (max-width: 768px) {
+  .float-circle-left {
+    margin: 0 auto 30px;
+    float: none;
+  }
+}
+
+.float-circle-right {
+  position: static;
+  float: right;
+  border-radius: 100%;
+  margin: 0 -90px 0 22px;
+  shape-outside: margin-box;
+}
+@media only screen and (max-width: 768px) {
+  .float-circle-right {
+    margin: 0 auto 30px;
+    float: none;
+  }
+}
+
+/* CIRCLE IMAGE MIXINS
+
+@mixin circle-image($width, $border-radius, $display, $height: auto) {
+    width: $width;
+    height: $height;
+    border-radius: $border-radius;
+    display: $display;
+    shape-outside: circle();
+}
+
+@mixin border-radius($top-left, $top-right: $top-left, $bottom-right: $top-left, $bottom-left: $top-left) {
+    border-top-left-radius: $top-left;
+    border-top-right-radius: $top-right;
+    border-bottom-right-radius: $bottom-right;
+    border-bottom-left-radius: $bottom-left;
+}
+
+*/
+.text-box h2, .text-box-wsu h2, .text-box-moyes h2, .text-box-lind h2, .text-box-goddard h2, .text-box-east h2, .text-box-dumke h2, .text-box-csbs h2, .text-box-cos h2, .text-box-gray h2 {
+  color: #575047;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+.text-box h2 span, .text-box-wsu h2 span, .text-box-moyes h2 span, .text-box-lind h2 span, .text-box-goddard h2 span, .text-box-east h2 span, .text-box-dumke h2 span, .text-box-csbs h2 span, .text-box-cos h2 span, .text-box-gray h2 span {
+  color: #575047;
+  font-weight: normal !important;
+}
+
+.text-box-white {
+  color: #FFF;
+  /*@media only screen and (min-width: $break-tablet) {
+      padding: 4em;
+  }*/
+}
+.text-box-white h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+.text-box-white h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+
+@media only screen and (min-width: 1024px) {
+  .two-col div.left-col, .athletics.article.marathon .text-box-color div.left-col {
+    width: 50%;
+    float: left;
+    padding: 1em;
+  }
+  .two-col div.right-col, .athletics.article.marathon .text-box-color div.right-col {
+    width: 50%;
+    float: right;
+    padding: 1em;
+  }
+}
+
+.text-box-gray {
+  background-color: #FFFCDA;
+}
+
+.text-box-cos {
+  background-color: #fef7e8;
+}
+
+.text-box-csbs {
+  background-color: #e5eff1;
+}
+
+.text-box-dumke {
+  background-color: #e5f4ec;
+}
+
+.text-box-east {
+  background-color: #faeee7;
+}
+
+.text-box-goddard {
+  background-color: #ecebe9;
+}
+
+.text-box-lind {
+  background-color: #e9fafb;
+}
+
+.text-box-moyes {
+  background-color: #f6fbee;
+}
+
+.text-box-wsu {
+  background-color: #ece9ef;
+}
+
+.text-box-img-gray {
+  background-color: #FFFCDA;
+}
+@media only screen and (min-width: 768px) {
+  .text-box-img-gray .text-box-gray {
+    padding: 8em;
+  }
+}
+
+.text-box-image-wrapper {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 400px;
+}
+@media only screen and (max-width: 480px) {
+  .text-box-image-wrapper {
+    height: 500px !important;
+    margin-bottom: 30px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .text-box-img-color .text-box-cos, .text-box-img-color .text-box-csbs, .text-box-img-color .text-box-dumke, .text-box-img-color .text-box-east, .text-box-img-color .text-box-goddard, .text-box-img-color .text-box-lind, .text-box-img-color .text-box-moyes, .text-box-img-color .text-box-wsu, .text-box-img-color .text-box, .text-box-img-color .text-box-gray, .text-box-img .text-box-cos, .text-box-img .text-box-csbs, .text-box-img .text-box-dumke, .text-box-img .text-box-east, .text-box-img .text-box-goddard, .text-box-img .text-box-lind, .text-box-img .text-box-moyes, .text-box-img .text-box-wsu, .text-box-img .text-box, .text-box-img .text-box-gray {
+    padding: 8em;
+  }
+}
+
+/*annual report home page*/
+.row.link-strip {
+  background-color: #a491b2;
+}
+.row.link-strip .link-cell {
+  padding: 10px 0;
+  text-align: center;
+}
+@media screen and (max-width: 480px) {
+  .row.link-strip .link-cell {
+    padding: 20px 0;
+  }
+}
+.row.link-strip a {
+  text-decoration: none;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-family: "tradegothicltcom-bd2", sans-serif;
+  color: #FFF;
+}
+@media screen and (max-width: 480px) {
+  .row.link-strip a {
+    font-size: 1.2em;
+  }
+}
+.row.link-strip a:hover {
+  color: #492365;
+}
+.row.link-strip .link-strip-left {
+  border-right: 2px solid #FFF;
+}
+@media screen and (max-width: 640px) {
+  .row.link-strip .link-strip-left {
+    border-right: none;
+    border-bottom: 2px solid #FFF;
+  }
+}
+
+h2.cont-men-headline {
+  margin-bottom: 20px !important;
+}
+
+/*home contents links*/
+.menu-stack ul {
+  margin-left: 4vw;
+  margin-bottom: 0;
+}
+@media screen and (min-width: 1500px) {
+  .menu-stack ul {
+    margin-left: 9.25em;
+  }
+}
+.menu-stack li {
+  list-style-type: none;
+  height: 41px;
+  display: flex;
+  align-items: center;
+}
+@media screen and (max-width: 1024px) {
+  .menu-stack li {
+    height: 50px;
+  }
+}
+.menu-stack li .menu-disc {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+  margin-right: 10px;
+}
+
+.pres-disc {
+  background-color: #492365;
+}
+
+.east-disc {
+  background-color: #d25d12;
+}
+
+.lind-disc {
+  background-color: #25cad3;
+}
+
+.moyes-disc {
+  background-color: #a3d55d;
+}
+
+.godd-disc {
+  background-color: #483627;
+}
+
+.students-disc {
+  background-color: #99afc9;
+}
+
+.csbs-disc {
+  background-color: #005f71;
+}
+
+.dumke-disc {
+  background-color: #099844;
+}
+
+.cos-disc {
+  background-color: #f6b221;
+}
+
+.comm-disc {
+  background-color: #a52428;
+}
+
+.athletics-disc {
+  background-color: #a491b2;
+}
+
+.faculty-disc {
+  background-color: #84471e;
+}
+
+a.menu-item {
+  display: inline-block;
+  text-decoration: none;
+  color: #575047;
+  font-family: "tradegothicltcom-bd2", sans-serif;
+  padding: 10px 10px 10px 5px;
+  font-size: 18px;
+  width: calc(100% - 50px);
+  line-height: 1em;
+}
+
+a.menu-item:hover {
+  cursor: pointer;
+  color: #FFF;
+  background-color: #c1a2d5;
+}
+
+/*home preview tiles*/
+.previews > * {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 296.8px;
+}
+.previews > * a {
+  text-decoration: none;
+}
+.previews > *:not(.no-padding) {
+  padding: 10%;
+}
+.previews > * .home-tile-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 500px;
+}
+.previews > * .home-tile-content h3 {
+  font-size: 1.2em;
+}
+.previews > * .home-tile-content img:not(.no-radius) {
+  width: 300px;
+  height: auto;
+  border-radius: 50%;
+  display: inline-block;
+  shape-outside: margin-box;
+  margin: 10px;
+}
+
+.csbs-home-tile {
+  background-color: #7fafb8;
+  padding: 10% 10% 0 10%;
+}
+.csbs-home-tile h2 {
+  align-self: flex-start;
+}
+.csbs-home-tile .csbs-tile-image {
+  max-width: 200px;
+}
+
+.east-home-tile {
+  background-color: #e8ae88;
+  background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/home-page/east-tile-1x.jpg");
+  background-size: cover;
+  background-position: left top;
+  background-repeat: no-repeat;
+}
+
+.lind1-home-tile {
+  background-color: #e9fafb;
+  background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/home-page/lind1-tile-bg-1x.jpg");
+  background-size: cover;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  padding: 40px 0 40px 10%;
+}
+.lind1-home-tile h2, .lind1-home-tile h3 {
+  background-color: #25cad3 !important;
+  align-self: stretch;
+}
+.lind1-home-tile h2 {
+  padding: 5px 30px !important;
+}
+.lind1-home-tile h3 {
+  padding: 30px;
+}
+.lind1-home-tile .home-tile-content img {
+  border: 2px solid #FFF;
+}
+
+.lind2-home-tile {
+  background-color: #25cad3;
+  background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/home-page/lind2-tile-1x.jpg");
+  background-size: cover;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+}
+.lind2-home-tile .home-tile-content {
+  background-color: rgba(37, 202, 211, 0.6);
+  max-width: 275px;
+  padding: 15px 15px 15px 40px;
+  align-items: flex-start;
+  align-self: flex-end;
+  height: 91%;
+}
+
+.dumke-home-tile {
+  background-color: #7fcba1;
+  background-image: url(https://apps.weber.edu/wsuimages/annualreport/2018/graphics/overlay-circles/background-circle-500-65.svg);
+  background-repeat: no-repeat;
+  background-position: -10% -70px;
+  background-size: 22%;
+}
+.dumke-home-tile .home-tile-content img {
+  border: 2px solid #FFF;
+}
+.dumke-home-tile .home-tile-content h3 {
+  align-self: flex-start;
+}
+
+.pres-home-tile {
+  background-color: #a491b2;
+}
+.pres-home-tile h2 {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  line-height: 1.3em;
+  font-size: 1.7em;
+  text-align: center;
+}
+.pres-home-tile h2 span {
+  font-size: 1.7em;
+}
+.pres-home-tile h3 {
+  font-size: 1.6em;
+}
+.pres-home-tile .pres-tile-image {
+  width: 250px;
+  height: auto;
+  border-radius: 50%;
+  display: inline-block;
+  shape-outside: margin-box;
+  margin: 20px;
+  border: 2px solid #FFF;
+}
+
+.godd-home-tile {
+  background-color: #a39a93;
+  background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/home-page/godd-tile-1x.jpg");
+  background-size: cover;
+  background-position: left top;
+  background-repeat: no-repeat;
+  padding: 40px 0 40px 10%;
+}
+.godd-home-tile .home-tile-content img {
+  border: 2px solid #FFF;
+}
+.godd-home-tile h2, .godd-home-tile h3 {
+  background-color: #483627 !important;
+  align-self: stretch;
+}
+.godd-home-tile h2 {
+  padding: 5px 30px !important;
+}
+.godd-home-tile h3 {
+  padding: 30px;
+}
+
+.cos-home-tile {
+  background-color: #fad890;
+  background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/home-page/cos-tile-1x.jpg");
+  background-size: cover;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+}
+
+.moyes-home-tile {
+  background-color: #d1eaae;
+  background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/home-page/moyes-tile-1x.jpg");
+  background-size: cover;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+}
+.moyes-home-tile .home-tile-content {
+  background-color: rgba(163, 213, 93, 0.8);
+  max-width: 290px;
+  padding: 15px 15px 15px 40px;
+  align-self: flex-end;
+  align-items: flex-start;
+}
+
+@supports (grid-area: auto) {
+  @media only screen and (min-width: 50em) {
+    .row.previews {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: repeat(7, [row-start] 296.8px [row-end]);
+      grid-template-areas: "east csbs" "east lind1" "lind2 lind1" "dumke dumke" "pres godd" "cos godd" "cos moyes";
+    }
+
+    .double {
+      grid-row: span 2;
+    }
+
+    .previews > * .home-tile-content img:not(.no-radius) {
+      margin: 0;
+    }
+    .previews > * .home-tile-content h2 {
+      font-size: 150%;
+      z-index: 10;
+    }
+    .previews > * .home-tile-content h3 {
+      font-size: 1.3em;
+      z-index: 10;
+    }
+
+    .previews .csbs-home-tile {
+      grid-area: csbs;
+      padding: 0;
+      justify-content: flex-end;
+    }
+    .previews .csbs-home-tile .home-tile-content {
+      display: grid;
+      grid-template-columns: 60% 40%;
+      grid-template-rows: 40% 60%;
+    }
+    .previews .csbs-home-tile .home-tile-content .csbs-tile-image {
+      grid-column: 2/3;
+      grid-row: 1/3;
+      align-self: flex-end;
+    }
+    .previews .csbs-home-tile .home-tile-content h2 {
+      align-self: flex-end;
+    }
+    .previews .csbs-home-tile .home-tile-content h3 {
+      align-self: flex-start;
+    }
+    .previews .east-home-tile {
+      grid-area: east;
+    }
+    .previews .east-home-tile .home-tile-content {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      grid-template-rows: 135px 47px 160px 117px;
+    }
+    .previews .east-home-tile .home-tile-content h2 {
+      grid-column: 1/5;
+      grid-row: 2/3;
+    }
+    .previews .east-home-tile .home-tile-content h3 {
+      grid-column: 1/7;
+      grid-row: 4/5;
+    }
+    .previews .east-home-tile .home-tile-content img {
+      width: 338px;
+      grid-column: 2/6;
+      grid-row: 1/4;
+    }
+    .previews .lind1-home-tile {
+      grid-area: lind1;
+      padding: 0;
+      justify-content: center;
+      align-items: flex-start;
+    }
+    .previews .lind1-home-tile .home-tile-content {
+      display: grid;
+      max-width: 563px;
+      grid-template-columns: 2fr 1fr 2fr 2fr 2fr;
+      grid-template-rows: 1fr 3fr 50px 25px 25px 2fr 2fr;
+      max-height: 100%;
+    }
+    .previews .lind1-home-tile .home-tile-content h2 {
+      grid-column: 1/5;
+      grid-row: 3/4;
+    }
+    .previews .lind1-home-tile .home-tile-content h3 {
+      grid-column: 2/6;
+      grid-row: 5/7;
+    }
+    .previews .lind1-home-tile .home-tile-content img {
+      grid-column: 3/6;
+      grid-row: 2/6;
+    }
+    .previews .lind2-home-tile {
+      grid-area: lind2;
+    }
+    .previews .dumke-home-tile {
+      grid-area: dumke;
+      padding: 0;
+      align-self: flex-end;
+    }
+    .previews .dumke-home-tile .home-tile-content {
+      display: grid;
+      grid-template-columns: 15% 30% 30% 25%;
+      grid-template-rows: 1fr 1fr;
+      max-width: 1100px;
+      max-height: 300px;
+    }
+    .previews .dumke-home-tile .home-tile-content h2 {
+      grid-column: 2/3;
+      grid-row: 1/2;
+      align-self: flex-end;
+    }
+    .previews .dumke-home-tile .home-tile-content h3:nth-of-type(1) {
+      grid-column: 3/4;
+      grid-row: 1/2;
+      align-self: flex-end;
+    }
+    .previews .dumke-home-tile .home-tile-content h3:nth-of-type(2) {
+      grid-column: 3/4;
+      grid-row: 2/3;
+      align-self: flex-start;
+    }
+    .previews .dumke-home-tile .home-tile-content img {
+      grid-column: 4/5;
+      grid-row: 1/3;
+    }
+    .previews .pres-home-tile {
+      grid-area: pres;
+      padding: 0;
+    }
+    .previews .pres-home-tile .home-tile-content {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 60% 40%;
+      max-width: 560px;
+    }
+    .previews .pres-home-tile .home-tile-content .pres-tile-image {
+      grid-column: 1/2;
+      grid-row: 1/3;
+    }
+    .previews .pres-home-tile .home-tile-content h2 {
+      grid-column: 2/3;
+      grid-row: 1/2;
+      align-self: flex-end;
+    }
+    .previews .pres-home-tile .home-tile-content h3 {
+      grid-column: 2/3;
+      grid-row: 2/3;
+      text-align: center;
+      font-size: 1.6em;
+    }
+    .previews .godd-home-tile {
+      grid-area: godd;
+      align-items: flex-end;
+      justify-content: start;
+    }
+    .previews .godd-home-tile .home-tile-content {
+      display: grid;
+      max-width: 532px;
+      grid-template-columns: 75px auto;
+      grid-template-rows: 185px 1fr 20px 2fr;
+    }
+    .previews .godd-home-tile .home-tile-content img {
+      width: 338px;
+      grid-column: 1/3;
+      grid-row: 1/4;
+    }
+    .previews .godd-home-tile .home-tile-content h2 {
+      width: 100%;
+      align-self: flex-end;
+      grid-column: 2/4;
+      grid-row: 2/3;
+    }
+    .previews .godd-home-tile .home-tile-content h3 {
+      width: 100%;
+      align-self: flex-start;
+      grid-column: 2/4;
+      grid-row: 4/5;
+      z-index: 10;
+    }
+    .previews .cos-home-tile {
+      grid-area: cos;
+      padding: 0;
+    }
+    .previews .cos-home-tile .home-tile-content {
+      display: grid;
+      grid-template-columns: 1fr 2fr 2fr 1fr;
+      grid-template-rows: 300px 1fr 2fr;
+    }
+    .previews .cos-home-tile .home-tile-content img {
+      width: 338px;
+      grid-column: 2/4;
+      grid-row: 1/3;
+    }
+    .previews .cos-home-tile .home-tile-content h2 {
+      grid-column: 1/5;
+      grid-row: 2/3;
+    }
+    .previews .cos-home-tile .home-tile-content h3 {
+      grid-column: 1/5;
+      grid-row: 3/4;
+    }
+    .previews .moyes-home-tile {
+      grid-area: moyes;
+    }
+    .previews .moyes-home-tile .home-tile-content {
+      align-items: start;
+    }
+    .previews .moyes-home-tile h2 {
+      text-align: left;
+    }
+  }
+}
+/*COLLEGE OF SCIENCE ANNUAL REPORT PAGE*/
+.article-img-bg-shape.knowledge .article-wrapper .text-box-color {
+  color: #FFF;
+  width: 60%;
+  position: absolute;
+  left: 0;
+  bottom: 10%;
+  background-color: rgba(250, 216, 144, 0.9);
+  flex-direction: row;
+  padding: 4em;
+}
+.article-img-bg-shape.knowledge .article-wrapper .text-box-color h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+.article-img-bg-shape.knowledge .article-wrapper .text-box-color h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+@media only screen and (max-width: 768px) {
+  .article-img-bg-shape.knowledge .article-wrapper .text-box-color {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .article-img-bg-shape.knowledge .article-wrapper .text-box-color {
+    width: 100%;
+    position: static;
+    padding: 30px 0.625rem;
+  }
+}
+.article-img-bg-shape.knowledge .article-wrapper img {
+  width: 325px;
+  height: auto;
+  border-radius: 100%;
+  display: block;
+  shape-outside: margin-box;
+}
+
+.math .fact-box-circle .circle-fact-wrapper p:first-child {
+  background-color: #fad890;
+}
+.math .fact-box-circle .circle-fact-wrapper p:last-child {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+}
+
+section.article.article-shape.easter-pilcher {
+  background-color: #fad890;
+  background-image: radial-gradient(22em at 0% 0%, #fad890 99%, rgba(225, 225, 225, 0.9), #fad890);
+  display: flex;
+  justify-content: center;
+}
+@media only screen and (min-width: 1024px) {
+  section.article.article-shape.easter-pilcher .article-wrapper {
+    width: 68vw;
+  }
+}
+
+.circle-image.easter-pilcher-img img {
+  width: 375px;
+  height: auto;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+}
+
+/*COLLEGE OF SOCIAL WORK AND BEHAVIORAL SCIENCE PAGE ANNUAL REPORT*/
+section.article.article-img-bg.kuwait {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/kuwait-bg-1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right bottom;
+  justify-content: flex-end;
+  align-content: flex-end;
+  padding-top: 4%;
+  padding-bottom: 6%;
+}
+@media only screen and (max-width: 767px) {
+  section.article.article-img-bg.kuwait {
+    padding: 0;
+  }
+}
+section.article.article-img-bg.kuwait .text-box-color {
+  color: #FFF;
+  width: 50%;
+  background-color: rgba(0, 95, 113, 0.8);
+  flex-direction: row;
+  padding: 4em;
+  align-self: flex-end;
+  justify-self: flex-end;
+}
+section.article.article-img-bg.kuwait .text-box-color h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+section.article.article-img-bg.kuwait .text-box-color h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+@media only screen and (max-width: 768px) {
+  section.article.article-img-bg.kuwait .text-box-color {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  section.article.article-img-bg.kuwait .text-box-color {
+    width: 100%;
+    position: static;
+    padding: 30px 0.625rem;
+  }
+}
+section.article.article-img-bg.kuwait .text-box-color h3 {
+  color: #FFF;
+}
+
+section.article.article-shape.four-professors {
+  background-color: #7fafb8;
+  background-image: radial-gradient(16em at 92% 32%, #7fafb8 99%, rgba(225, 225, 225, 0.6), #7fafb8);
+}
+section.article.article-shape.four-professors img {
+  border: 1px solid #EEE;
+  margin-bottom: 30px;
+}
+section.article.article-shape.four-professors img.statue {
+  width: 200px;
+  height: auto;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+}
+section.article.article-shape.four-professors img.thinker {
+  width: 400px;
+  height: auto;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+}
+section.article.article-shape.four-professors img.v-neck {
+  width: 300px;
+  height: auto;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+}
+section.article.article-shape.four-professors img.fanny-pack {
+  width: 400px;
+  height: auto;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+}
+
+@supports (grid-area: auto) {
+  @media only screen and (min-width: 50em) {
+    section.article.four-professors .article-wrapper {
+      display: grid;
+      width: 80vw;
+    }
+    section.article.four-professors .article-wrapper img.statue {
+      grid-column: 2/4;
+      grid-row: 1/3;
+    }
+    section.article.four-professors .article-wrapper img.thinker {
+      grid-column: 3/5;
+      grid-row: 2/5;
+    }
+    section.article.four-professors .article-wrapper div.text-box-white {
+      padding: 2em;
+      grid-column: 2/5;
+      grid-row: 5/7;
+    }
+    section.article.four-professors .article-wrapper img.v-neck {
+      grid-column: 5/7;
+      grid-row: 6/8;
+    }
+    section.article.four-professors .article-wrapper img.fanny-pack {
+      grid-column: 2/5;
+      grid-row: 7/9;
+    }
+  }
+}
+/*DUMKE COLLEGE PAGE 2018 ANNUAL REPORT*/
+section.dumke.content section.article.article-img-bg.new-addition {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/dumke-img-article-bg-1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top left;
+  justify-content: flex-start;
+  align-content: flex-start;
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
+@media only screen and (max-width: 767px) {
+  section.dumke.content section.article.article-img-bg.new-addition {
+    padding: 0;
+  }
+}
+section.dumke.content section.article.article-img-bg.new-addition .text-box-color {
+  color: #FFF;
+  width: 70%;
+  background-color: rgba(127, 203, 161, 0.9);
+  flex-direction: row;
+  padding: 4em;
+  align-self: flex-start;
+  justify-self: flex-start;
+  max-width: 1200px;
+}
+section.dumke.content section.article.article-img-bg.new-addition .text-box-color h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+section.dumke.content section.article.article-img-bg.new-addition .text-box-color h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+@media only screen and (max-width: 768px) {
+  section.dumke.content section.article.article-img-bg.new-addition .text-box-color {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  section.dumke.content section.article.article-img-bg.new-addition .text-box-color {
+    width: 100%;
+    position: static;
+    padding: 30px 0.625rem;
+  }
+}
+section.dumke.content section.article.article-img-bg.new-addition .text-box-color .circle-image.mosaic-img {
+  margin-left: 0;
+  margin-right: 50px;
+  height: 300px;
+}
+@media only screen and (max-width: 768px) {
+  section.dumke.content section.article.article-img-bg.new-addition .text-box-color .circle-image.mosaic-img {
+    display: flex;
+    justify-content: center;
+    margin-right: 0;
+  }
+}
+section.dumke.content section.article.article-img-bg.new-addition .text-box-color .circle-image.mosaic-img img {
+  width: 300px;
+  height: auto;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+  border: 1px solid #FFF;
+}
+section.dumke.content section.article.article-shape.collaboration {
+  background-color: #7fcba1;
+  background-image: radial-gradient(18em at 22% 20%, #7fcba1 99%, rgba(225, 225, 225, 0.8), #7fcba1);
+}
+section.dumke.content section.article.article-shape.collaboration .article-wrapper {
+  max-width: 1000px;
+}
+
+.circle-image.soldier-img img {
+  width: 375px;
+  height: auto;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+}
+
+.dumke-facts .fact-over-under, .dumke-facts .fact-single {
+  padding: 4em;
+}
+.dumke-facts .fact-over-under .over-under-wrapper p.over-under-number, .dumke-facts .fact-single .over-under-wrapper p.over-under-number {
+  color: #7fcba1;
+}
+.dumke-facts .fact-box-circle .circle-fact-wrapper p.dumke-circle {
+  background-color: #7fcba1;
+  width: 100px;
+  height: 100px;
+}
+.dumke-facts .fact-box-circle .circle-fact-wrapper p:nth-child(2) {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  font-size: 1em;
+}
+
+.dee-float-right {
+  width: 300px;
+  height: auto;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+  float: right;
+  shape-outside: margin-box;
+  margin: 20px;
+}
+@media only screen and (max-width: 640px) {
+  .dee-float-right {
+    float: none;
+    margin: 0;
+  }
+}
+
+/*EAST PAGE ANNUAL REPORT*/
+/********EAST**********/
+section.east.content section.article.article-img-bg.engineered-future {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/east-article-bg-square-1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  display: flex;
+  justify-content: center;
+}
+@media only screen and (min-width: 768px) {
+  section.east.content section.article.article-img-bg.engineered-future {
+    padding-top: 5em;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  section.east.content section.article.article-img-bg.engineered-future .article-wrapper {
+    width: 78vw;
+  }
+}
+section.east.content section.article.article-img-bg.engineered-future .text-box-white .circle-fact.declared-majors {
+  border: 2px solid #492365;
+}
+section.east.content section.article.article-img-bg.engineered-future .text-box-white .circle-fact.declared-majors .tall-number, section.east.content section.article.article-img-bg.engineered-future .text-box-white .circle-fact.declared-majors .large-expanded, section.east.content section.article.article-img-bg.engineered-future .text-box-white .circle-fact.declared-majors .regular-condensed-text.small {
+  color: #492365;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact-row {
+  display: flex;
+  flex-direction: column;
+}
+@media only screen and (min-width: 768px) {
+  section.east.content section.article.article-img-bg.engineered-future .circle-fact-row {
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-salaries {
+  background-color: rgba(164, 145, 178, 0.7);
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-salaries .regular-number, section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-salaries section.online-facts .online-courses-offered .big-w-circle, section.online-facts .online-courses-offered section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-salaries .big-w-circle, section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-salaries .circle-fact-wrapper p:first-child, .circle-fact-wrapper section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-salaries p:first-child, section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-salaries .fine-print {
+  color: #FFF;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-salaries .bold-condensed-text {
+  color: #492365;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-jobs {
+  border: 2px solid #EEE;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-jobs .bold-condensed-text {
+  color: #492365;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-jobs .tall-number {
+  color: #FFF;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.stem-jobs .fine-print {
+  color: #8446ac;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries {
+  background-color: #e8ae88;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries .regular-number, section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries section.online-facts .online-courses-offered .big-w-circle, section.online-facts .online-courses-offered section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries .big-w-circle, section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries .circle-fact-wrapper p:first-child, .circle-fact-wrapper section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries p:first-child {
+  color: #492365;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries .fine-print {
+  color: #FFF;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries .fine-print.purp {
+  font-size: 1.2em;
+}
+section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries .fine-print.purp, section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries .regular-condensed-text.large, section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries .regular-condensed-text.small, section.east.content section.article.article-img-bg.engineered-future .circle-fact.engineering-salaries .small-expanded {
+  color: #8446ac;
+}
+
+.new-degrees-fact-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding-left: 4em;
+  margin-top: 4em;
+  margin-bottom: 2em;
+}
+@media only screen and (max-width: 640px) {
+  .new-degrees-fact-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 0;
+  }
+}
+.new-degrees-fact-box .square-fact {
+  text-align: left;
+  width: 175px;
+  margin-right: 30px;
+  border-right: 1px solid #575047;
+  float: left;
+}
+@media only screen and (max-width: 640px) {
+  .new-degrees-fact-box .square-fact {
+    border-right: none;
+    margin-right: 0;
+  }
+}
+.new-degrees-fact-box .square-fact span {
+  display: inline-block;
+}
+.new-degrees-fact-box .square-fact .tall-number {
+  color: #492365;
+}
+.new-degrees-fact-box .square-fact .regular-number, .new-degrees-fact-box .square-fact section.online-facts .online-courses-offered .big-w-circle, section.online-facts .online-courses-offered .new-degrees-fact-box .square-fact .big-w-circle, .new-degrees-fact-box .square-fact .circle-fact-wrapper p:first-child, .circle-fact-wrapper .new-degrees-fact-box .square-fact p:first-child {
+  color: #FFF;
+}
+.new-degrees-fact-box .square-fact .regular-condensed-text.large, .new-degrees-fact-box .square-fact .large-expanded {
+  color: #8446ac;
+}
+
+.fact-list {
+  padding-top: 33px;
+}
+@media only screen and (max-width: 640px) {
+  .fact-list {
+    padding-top: 10px;
+  }
+}
+.fact-list p {
+  margin-bottom: 0;
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  font-size: 1em;
+  color: #492365;
+}
+
+section.article-img-bg.freedom {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/bw2-circleBikeClip63copy-2x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top left;
+  justify-content: flex-end;
+  align-content: flex-end;
+  padding-top: 5%;
+  padding-bottom: 7%;
+}
+@media only screen and (max-width: 767px) {
+  section.article-img-bg.freedom {
+    padding: 0;
+  }
+}
+section.article-img-bg.freedom .text-box-color {
+  color: #FFF;
+  width: 80%;
+  background-color: rgba(232, 174, 136, 0.8);
+  flex-direction: row;
+  padding: 4em;
+  align-self: flex-end;
+  justify-self: flex-end;
+}
+section.article-img-bg.freedom .text-box-color h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+section.article-img-bg.freedom .text-box-color h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+@media only screen and (max-width: 768px) {
+  section.article-img-bg.freedom .text-box-color {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  section.article-img-bg.freedom .text-box-color {
+    width: 100%;
+    position: static;
+    padding: 30px 0.625rem;
+  }
+}
+
+section.article.article-shape.building-community {
+  background-color: #e8ae88;
+  background-image: radial-gradient(16em at 3% 40%, #e8ae88 99%, rgba(225, 225, 225, 0.7), #e8ae88);
+}
+@media only screen and (min-width: 1024px) {
+  section.article.article-shape.building-community .article-wrapper {
+    width: 69vw;
+  }
+}
+section.article.article-shape.building-community .circle-image.kids {
+  width: 400px;
+  height: auto;
+  border-radius: 100%;
+  display: block;
+  shape-outside: margin-box;
+}
+section.article.article-shape.building-community .circle-image.farner {
+  width: 225px;
+  height: auto;
+  border-radius: 100%;
+  display: block;
+  shape-outside: margin-box;
+  border: 1px solid #EEE;
+}
+
+@supports (grid-area: auto) {
+  @media only screen and (min-width: 1024px) {
+    .engineered-future .article-wrapper {
+      display: grid;
+      grid-template-columns: auto 250px;
+      grid-template-rows: auto;
+    }
+
+    .text-box-white {
+      grid-column: 1/2;
+      grid-row: 1/2;
+    }
+
+    section.east.content section.article.article-img-bg.engineered-future .circle-fact-row {
+      padding-top: 4em;
+      flex-direction: column;
+      grid-column: 2/3;
+      grid-row: 1/2;
+    }
+  }
+}
+/*GODDARD PAGE ANNUAL REPORT*/
+section.goddard section.over-under-container {
+  background-color: #dad7d4;
+}
+section.goddard section.over-under-container .fact-over-under .over-under-wrapper, section.goddard section.over-under-container .fact-single .over-under-wrapper {
+  font-size: 120%;
+}
+section.goddard section.over-under-container .fact-over-under .over-under-wrapper p.over-under-number, section.goddard section.over-under-container .fact-single .over-under-wrapper p.over-under-number {
+  color: #483627;
+}
+section.goddard section.article.article-img-bg.global-player {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/goddard-article-bg-1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left bottom;
+  justify-content: flex-start;
+  align-content: flex-start;
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+@media only screen and (max-width: 767px) {
+  section.goddard section.article.article-img-bg.global-player {
+    padding: 0;
+  }
+}
+section.goddard section.article.article-img-bg.global-player .text-box-color {
+  color: #FFF;
+  width: 55%;
+  background-color: rgba(163, 154, 147, 0.9);
+  flex-direction: row;
+  padding: 4em;
+  align-self: flex-start;
+  justify-self: flex-start;
+}
+section.goddard section.article.article-img-bg.global-player .text-box-color h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+section.goddard section.article.article-img-bg.global-player .text-box-color h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+@media only screen and (max-width: 768px) {
+  section.goddard section.article.article-img-bg.global-player .text-box-color {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  section.goddard section.article.article-img-bg.global-player .text-box-color {
+    width: 100%;
+    position: static;
+    padding: 30px 0.625rem;
+  }
+}
+section.goddard .goddard-facts .fact-box-circle .circle-fact-wrapper {
+  flex-direction: column;
+  align-items: center;
+}
+section.goddard .goddard-facts .fact-box-circle .circle-fact-wrapper p.goddard-circle {
+  background-color: #483627;
+  width: 75px;
+  height: 75px;
+  margin: 0 0 30px 0;
+}
+section.goddard .goddard-facts .fact-box-circle .circle-fact-wrapper p:nth-child(2) {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  font-size: 1em;
+}
+section.goddard section.article.article-shape.charity {
+  background-color: #a39a93;
+  background-image: radial-gradient(24em at 5% 100%, #a39a93 99%, rgba(225, 225, 225, 0.6), #a39a93);
+}
+section.goddard section.article.article-shape.charity .article-wrapper {
+  max-width: 1000px;
+}
+
+/*LINDQUIST ANNUAL REPORT PAGE*/
+section.lind.content .article-img-bg.oxford {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right bottom;
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/lind-image-article-bg-1x.jpg);
+  justify-content: flex-start;
+  align-content: flex-start;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+@media only screen and (max-width: 767px) {
+  section.lind.content .article-img-bg.oxford {
+    padding: 0;
+  }
+}
+section.lind.content .article-img-bg.oxford .text-box-color {
+  color: #FFF;
+  width: 60%;
+  background-color: rgba(37, 202, 211, 0.9);
+  flex-direction: row;
+  padding: 4em;
+  align-self: flex-start;
+  justify-self: flex-start;
+}
+section.lind.content .article-img-bg.oxford .text-box-color h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+section.lind.content .article-img-bg.oxford .text-box-color h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+@media only screen and (max-width: 768px) {
+  section.lind.content .article-img-bg.oxford .text-box-color {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  section.lind.content .article-img-bg.oxford .text-box-color {
+    width: 100%;
+    position: static;
+    padding: 30px 0.625rem;
+  }
+}
+section.lind.content .article-img-bg.oxford .text-box-color .float-circle-right {
+  border: 1px solid #FFF;
+  margin: 0 -220px 0 22px;
+  width: 400px;
+  height: auto;
+}
+@media only screen and (max-width: 768px) {
+  section.lind.content .article-img-bg.oxford .text-box-color .float-circle-right {
+    margin: 0 auto 30px;
+    float: none;
+  }
+}
+section.lind.content section.article.article-shape.leaders {
+  background-color: #92e4e9;
+  background-image: radial-gradient(30em at 90% 0%, #92e4e9 99%, rgba(225, 225, 225, 0.8), #92e4e9);
+}
+section.lind.content section.article.article-shape.leaders .article-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+@media only screen and (min-width: 1024px) {
+  section.lind.content section.article.article-shape.leaders .article-wrapper {
+    width: 69vw;
+  }
+}
+section.lind.content section.article.article-shape.leaders .circle-image.graham {
+  width: 325px;
+  height: auto;
+  border-radius: 100%;
+  display: block;
+  shape-outside: margin-box;
+  border: 1px solid #EEE;
+}
+section.lind.content section.article.article-shape.leaders .circle-image.sprenger {
+  width: 325px;
+  height: auto;
+  border-radius: 100%;
+  display: block;
+  shape-outside: margin-box;
+  border: 1px solid #EEE;
+}
+
+/*MOYES PAGE ANNUAL REPORT*/
+section.article.article-shape.storytelling {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/moyes-image-article-bg-1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+section.article.article-shape.storytelling .article-wrapper img.raised-rifle {
+  width: 300px;
+  height: auto;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+}
+section.article.article-shape.storytelling .article-wrapper img.painters {
+  width: 445px;
+  height: auto;
+  border-radius: 100%;
+  display: inline-block;
+  shape-outside: margin-box;
+}
+section.article.article-shape.storytelling .article-wrapper .text-box-color {
+  background-color: rgba(209, 234, 174, 0.8);
+}
+section.article.article-shape.storytelling .article-wrapper .text-box-color h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+section.article.article-shape.storytelling .article-wrapper .text-box-color h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+
+section.out-to-play {
+  background-image: url(https://apps.weber.edu/wsuimages/annualreport/2018/images/articles/background/moyes-article-solid-bg.jpg);
+}
+section.out-to-play .hiker-bg {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/moyes-out-to-play-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left center;
+  height: 200px;
+}
+section.out-to-play .text-box h2, section.out-to-play .text-box-gray h2, section.out-to-play .text-box-cos h2, section.out-to-play .text-box-csbs h2, section.out-to-play .text-box-dumke h2, section.out-to-play .text-box-east h2, section.out-to-play .text-box-goddard h2, section.out-to-play .text-box-lind h2, section.out-to-play .text-box-moyes h2, section.out-to-play .text-box-wsu h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+section.out-to-play .text-box h2 span, section.out-to-play .text-box-gray h2 span, section.out-to-play .text-box-cos h2 span, section.out-to-play .text-box-csbs h2 span, section.out-to-play .text-box-dumke h2 span, section.out-to-play .text-box-east h2 span, section.out-to-play .text-box-goddard h2 span, section.out-to-play .text-box-lind h2 span, section.out-to-play .text-box-moyes h2 span, section.out-to-play .text-box-wsu h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+section.out-to-play .fact-single {
+  clear: both;
+}
+section.out-to-play .fact-single .over-under-wrapper {
+  max-width: 768px;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 768px) {
+  section.out-to-play .fact-single .over-under-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    max-width: 100%;
+  }
+}
+section.out-to-play .fact-single .over-under-wrapper p {
+  color: #FFF;
+}
+section.out-to-play .fact-single .over-under-wrapper .over-under-text {
+  flex: 2;
+}
+
+@supports (grid-area: auto) {
+  @media only screen and (min-width: 50em) {
+    section.article.storytelling .article-wrapper {
+      display: grid;
+      width: 80vw;
+      max-width: 1500px;
+      grid-template-columns: 300px 28% 1fr;
+      grid-template-rows: 100px 1fr 1fr 200px;
+      padding: 0;
+    }
+    section.article.storytelling .article-wrapper img.raised-rifle {
+      grid-column: 2/3;
+      grid-row: 2/3;
+      align-self: flex-end;
+    }
+  }
+  @media only screen and (min-width: 50em) and (max-width: 1250px) {
+    section.article.storytelling .article-wrapper img.raised-rifle {
+      grid-column: 1/2;
+    }
+  }
+  @media only screen and (min-width: 50em) {
+    section.article.storytelling .article-wrapper .text-box-color {
+      grid-column: 3/5;
+      grid-row: 2/4;
+    }
+  }
+  @media only screen and (min-width: 50em) and (max-width: 1250px) {
+    section.article.storytelling .article-wrapper .text-box-color {
+      grid-column: 2/5;
+    }
+  }
+  @media only screen and (min-width: 50em) {
+    section.article.storytelling .article-wrapper .text-box-color img.painters {
+      margin: 16px 22px 0 -227px;
+    }
+  }
+  @media only screen and (min-width: 50em) {
+    section.out-to-play {
+      display: grid;
+      grid-template-columns: 16% auto;
+    }
+    section.out-to-play .hiker-bg {
+      height: auto;
+    }
+    section.out-to-play .article-wrapper {
+      padding-top: 8em;
+      grid-column: 2/3;
+      display: grid;
+    }
+    section.out-to-play .article-wrapper .text-box, section.out-to-play .article-wrapper .text-box-gray, section.out-to-play .article-wrapper .text-box-cos, section.out-to-play .article-wrapper .text-box-csbs, section.out-to-play .article-wrapper .text-box-dumke, section.out-to-play .article-wrapper .text-box-east, section.out-to-play .article-wrapper .text-box-goddard, section.out-to-play .article-wrapper .text-box-lind, section.out-to-play .article-wrapper .text-box-moyes, section.out-to-play .article-wrapper .text-box-wsu {
+      grid-row: 2/3;
+    }
+  }
+}
+section.facts-wrapper {
+  background-color: #ECECEC;
+}
+
+.fact-row {
+  border-bottom: 2px solid #492365;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.fact-row .bord-rt {
+  border-right: 2px solid #492365;
+}
+.fact-row .top-ten-list {
+  background-color: #dbd3e0;
+}
+.fact-row .column {
+  padding: 2%;
+}
+@media only screen and (min-width: 700px) and (max-width: 1023px) {
+  .fact-row .column {
+    padding: 0 20%;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .fact-row .column img:not(.no-max) {
+    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.pres-image {
+  width: 250px;
+  height: auto;
+  border-radius: 100%;
+  display: block;
+  shape-outside: margin-box;
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+@media only screen and (max-width: 480px) {
+  .pres-image {
+    float: none;
+  }
+}
+
+/***ATHELTICS ARTICLES***/
+.athletics-success .text-box-image-wrapper {
+  background-image: url("https://www.weber.edu/wsuimages/annualreport/2018/images/articles/text-box-images/image5-1x.jpg");
+}
+
+.athletics.article.marathon {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/sellers-bg-cropped-1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right top;
+  justify-content: flex-start;
+  align-content: flex-start;
+  padding-top: 8%;
+  padding-bottom: 12%;
+}
+@media only screen and (max-width: 767px) {
+  .athletics.article.marathon {
+    padding: 0;
+  }
+}
+.athletics.article.marathon .text-box-color {
+  color: #FFF;
+  width: 80%;
+  background-color: rgba(73, 35, 101, 0.9);
+  flex-direction: row;
+  padding: 4em;
+  align-self: flex-start;
+  justify-self: flex-start;
+}
+.athletics.article.marathon .text-box-color h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+.athletics.article.marathon .text-box-color h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+@media only screen and (max-width: 768px) {
+  .athletics.article.marathon .text-box-color {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .athletics.article.marathon .text-box-color {
+    width: 100%;
+    position: static;
+    padding: 30px 0.625rem;
+  }
+}
+
+.athletics.article.article-shape-centered.another-season {
+  background-color: #492365;
+  background-image: radial-gradient(11em at 76% 102%, #492365 99%, rgba(225, 225, 225, 0.6), #492365);
+  background-repeat: no-repeat;
+}
+
+/*****BIG W*****/
+section.article.distinguished {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/distinguished-bg-1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+section.article.distinguished h2 {
+  margin-left: 16px !important;
+}
+@media only screen and (max-width: 768px) {
+  section.article.distinguished h2 {
+    margin-left: 0 !important;
+  }
+}
+section.article.distinguished .circle-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  display: block;
+  shape-outside: margin-box;
+  border: 1px solid #FFF;
+  float: left;
+  margin: 20px;
+}
+section.article.distinguished .circle-image.sheree-head-shot {
+  float: right;
+}
+
+section.article.online-learning {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/online-image-article-bg-cropped-1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left bottom;
+  justify-content: flex-start;
+  align-content: flex-start;
+  padding-top: 5%;
+  padding-bottom: 7%;
+}
+@media only screen and (max-width: 767px) {
+  section.article.online-learning {
+    padding: 0;
+  }
+}
+section.article.online-learning .text-box-color {
+  color: #FFF;
+  width: 60%;
+  background-color: rgba(164, 145, 178, 0.8);
+  flex-direction: row;
+  padding: 4em;
+  align-self: flex-start;
+  justify-self: flex-start;
+}
+section.article.online-learning .text-box-color h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+section.article.online-learning .text-box-color h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+@media only screen and (max-width: 768px) {
+  section.article.online-learning .text-box-color {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  section.article.online-learning .text-box-color {
+    width: 100%;
+    position: static;
+    padding: 30px 0.625rem;
+  }
+}
+
+section.online-facts .online-fact-total {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+section.online-facts .online-courses-offered {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+section.online-facts .online-courses-offered .offered-text {
+  font-family: "tradegothicltcom-bdcn20", sans-serif;
+  font-size: 1em;
+  width: 33%;
+  text-align: right;
+  padding-right: 30px;
+}
+section.online-facts .online-courses-offered .big-w-circle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #FFF;
+  text-align: center;
+  border-radius: 50%;
+  width: 85px;
+  height: 85px;
+  margin: 10px 10px 0 0;
+  shape-outside: circle();
+  background-color: #492365;
+}
+section.online-facts .online-courses-offered .big-w-circle span {
+  display: block;
+}
+
+section.article.underserved {
+  background-color: #a491b2;
+  background-image: radial-gradient(22em at 86% 9%, #a491b2 99%, rgba(225, 225, 225, 0.6), #a491b2);
+  display: flex;
+  justify-content: center;
+}
+section.article.underserved .article-wrapper .text-box-white img.veronica {
+  width: 450px;
+  height: auto;
+  border-radius: 100%;
+  display: block;
+  shape-outside: margin-box;
+  border: 2px solid #FFF;
+}
+
+section.article.perozzi .text-box-image-wrapper.brett {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/BrettPerozzi_2616-1x.jpg);
+}
+
+section.article.weber-safe .text-box-image-wrapper.safe {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/text-box-images/self-defense.jpg);
+}
+
+section.article.article-shape.kindness {
+  background-color: #a491b2;
+  background-image: radial-gradient(17em at 69% 103%, #a491b2 99%, rgba(225, 225, 225, 0.6), #a491b2);
+}
+section.article.article-shape.kindness .article-wrapper img.quest-cards {
+  width: 400px;
+  height: auto;
+  -webkit-shape-outside: polygon(44% 0%, 41% 8%, 0% 29%, 36% 100%, 80% 81%, 89% 82%, 100% 6%);
+  shape-outside: polygon(44% 0%, 41% 8%, 0% 29%, 36% 100%, 80% 81%, 89% 82%, 100% 6%);
+  float: right;
+  margin: 0 0 0 22px;
+  border: none;
+}
+@media only screen and (max-width: 768px) {
+  section.article.article-shape.kindness .article-wrapper img.quest-cards {
+    margin: 0 auto 30px;
+    float: none;
+  }
+}
+section.article.article-shape.kindness .article-wrapper .fact-single {
+  max-width: 80%;
+  margin: 0 auto;
+}
+@media only screen and (max-width: 640px) {
+  section.article.article-shape.kindness .article-wrapper .fact-single {
+    max-width: 100%;
+  }
+}
+section.article.article-shape.kindness .article-wrapper .fact-single .over-under-wrapper .over-under-number {
+  color: #FFF;
+  text-align: left;
+  flex: none;
+}
+
+section.ccel-facts h3 {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+section.article.good-neighbors {
+  background-image: url(https://www.weber.edu/wsuimages/annualreport/2018/images/articles/background/ogden-arch-bg-1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  justify-content: flex-end;
+  align-content: flex-end;
+  padding-top: 3%;
+  padding-bottom: 10%;
+}
+@media only screen and (max-width: 767px) {
+  section.article.good-neighbors {
+    padding: 0;
+  }
+}
+section.article.good-neighbors .text-box-color {
+  color: #FFF;
+  width: 70%;
+  background-color: rgba(164, 145, 178, 0.9);
+  flex-direction: row;
+  padding: 4em;
+  align-self: flex-end;
+  justify-self: flex-end;
+}
+section.article.good-neighbors .text-box-color h2 {
+  color: #FFF;
+  margin-bottom: 20px !important;
+  font-weight: bold !important;
+}
+section.article.good-neighbors .text-box-color h2 span {
+  color: #FFF;
+  font-weight: normal !important;
+}
+@media only screen and (max-width: 768px) {
+  section.article.good-neighbors .text-box-color {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  section.article.good-neighbors .text-box-color {
+    width: 100%;
+    position: static;
+    padding: 30px 0.625rem;
+  }
+}
+section.article.good-neighbors .text-box-color img {
+  width: 250px;
+  position: static;
+  margin: 22px;
+  border: 1px solid #FFF;
+}

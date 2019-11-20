@@ -1,9 +1,15 @@
 # external css links:
 
-<link rel-"stylesheet" href="https://apps.weber.edu/wsuimages/davidbrogan/wsu-body-ui/css/ui-global-styles.css" />
+<link rel="stylesheet" href="https://apps.weber.edu/wsuimages/davidbrogan/wsu-body-ui/css/ui-global-styles.css" />
 <link rel="stylesheet" href="https://apps.weber.edu/wsuimages/davidbrogan/wsu-body-ui/css/ui-mod-base.css" />
 
 # minified
 
-<link rel-"stylesheet" href="https://apps.weber.edu/wsuimages/davidbrogan/wsu-body-ui/css/ui-global-styles-min.css" />
+<link rel="stylesheet" href="https://apps.weber.edu/wsuimages/davidbrogan/wsu-body-ui/css/ui-global-styles-min.css" />
 <link rel="stylesheet" href="https://apps.weber.edu/wsuimages/davidbrogan/wsu-body-ui/css/ui-mod-base-min.css" />
+
+# subpages
+
+<script src="https://apps.weber.edu/wsuimages/annualreport/js/ar2019.js"></script>
+<link rel="stylesheet" href="https://apps.weber.edu/wsuimages/davidbrogan/wsu-body-ui/css/ui-global-styles-min.css" />
+<link rel="stylesheet" href="https://apps.weber.edu/wsuimages/annualreport/css/subpage-template.css" />
